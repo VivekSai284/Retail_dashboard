@@ -129,18 +129,8 @@ The interactive dashboard includes:
 
 # Folder Structure
 
-Retail-Sales-Dashboard/
-│
-├── Dataset/
-├── SQL/
-│   └── queries.sql
-├── PowerBI/
-│   └── retail_dashboard.pbix
-├── Screenshots/
-│   └── dashboard.png
-├── Documentation/
-│   └── RETAIL SALES DATA DASHBOARD.pdf
-└── README.md
+Retail-Sales-Dashboard
+ -
 
 ---
 
