@@ -130,7 +130,8 @@ The interactive dashboard includes:
 # Folder Structure
 
 Retail-Sales-Dashboard
- -
+ - Dataset
+   - Sample - Super - cleaned.csv
 
 ---
 
