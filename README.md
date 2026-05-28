@@ -131,7 +131,14 @@ The interactive dashboard includes:
 
 Retail-Sales-Dashboard
  - Dataset
-   - Sample - Super - cleaned.csv
+   - Sample - Superstore - cleaned.csv
+   - Sample - Superstore.csv
+- Documentation
+   -Retail Sales Data Dashboard.pdf
+- Excel
+  - Sample - Superstore - cleaned.xlsx
+- PowerBI
+  - retail_dashboard.pbix
 
 ---
 
