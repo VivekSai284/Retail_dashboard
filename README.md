@@ -134,7 +134,7 @@ Retail-Sales-Dashboard
    - Sample - Superstore - cleaned.csv
    - Sample - Superstore.csv
 - Documentation
-   -Retail Sales Data Dashboard.pdf
+   - Retail Sales Data Dashboard.pdf
 - Excel
   - Sample - Superstore - cleaned.xlsx
 - PowerBI
