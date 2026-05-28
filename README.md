@@ -139,7 +139,11 @@ Retail-Sales-Dashboard
   - Sample - Superstore - cleaned.xlsx
 - PowerBI
   - retail_dashboard.pbix
-
+- SQL
+  - queries.sql
+- Screenshots
+  - dashboard.png
+- README.md
 ---
 
 # Learning Outcomes
